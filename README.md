@@ -57,9 +57,9 @@ $ python3 -m unittest discover -s .  -p "*_test.py" -v
 
 ## CODE STRUCTURE
 
-Main file: __ main_runner.py __
+Main file: main_runner.py 
 
-Metrics are defined in the corresponding __ *_metric_handler.py __ and their unittests in __ *_test.py __
+Metrics are defined in the corresponding  *_metric_handler.py  and their unittests in  *_test.py 
 
 integration_test.py for end to end tests. 
 
