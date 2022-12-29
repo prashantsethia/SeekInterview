@@ -1,4 +1,4 @@
-# Please refer to README.txt for details.
+# Please refer to README.md for details.
 
 from datetime import datetime
 import sys
