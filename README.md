@@ -3,9 +3,7 @@
 Refer to AIPS Coding Challenge (002).pdf for problem details.
 
 
-==================
 ## ASSUMPTIONS
-==================
 
 * Input File is sorted by time.
 
@@ -22,9 +20,7 @@ Refer to AIPS Coding Challenge (002).pdf for problem details.
 
 
 
-===================
 ## HOW TO RUN THE CODE
-===================
 
 ```
 $ cd SeekInterview
@@ -45,16 +41,16 @@ Outputs the metrics separated by newline:
 
 
 
-====================
 ## HOW TO RUN UNITTESTS
-====================
 
+```
 $ cd SeekCodingChallenge
 
-Run single test file: $ python -m unittest total_cars_metric_handler_test.py -v
+$ python -m unittest total_cars_metric_handler_test.py -v
 
-Run all test files: $ python3 -m unittest discover -s .  -p "*_test.py" -v
+$ python3 -m unittest discover -s .  -p "*_test.py" -v
 
+```
 
 
 ====================
